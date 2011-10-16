@@ -1,0 +1,11 @@
+This project was my senior thesis for my major ICAM at UCSD. It consisted of a hardware component, a custom Led Matrix using MAX 7219 Led Matrix Driver IC's and regular super bright LEDs. The system is controlled by interfaced by Arduino and controlled by Processing. The link between Arduino and Processing is serial, with Processing controlling the interaction between the viewer and the sculpture. 
+
+The processing program was built with a "Test Mode" in mind in order for me to operate and manipulate the code for the matrix offline, since the unit itself was heavy and hard to transport. 
+
+The project operated perfectly for the week show of the best of ICAM senior show. 
+
+Funding for the project was provided via a grant from the Russel foundation. 
+
+Images and summary are located at:
+
+http://parsons160b.blogspot.com/
